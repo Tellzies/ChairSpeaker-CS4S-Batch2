@@ -1,0 +1,158 @@
+*************************************************************
+FileName = Chair_Speaker_TI_Receiver_REV1-1.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\matrix\matrix
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\profile
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\stephdr
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\attrlist
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\boardoutline\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\boardoutline\attrlist
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\dimensions\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\dimensions\attrlist
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\midlayer2\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\midlayer2\attrlist
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\midlayer1\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\midlayer1\attrlist
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\bot_layer\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\bot_layer\attrlist
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\fabrication\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\fabrication\attrlist
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\top_layer\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\steps\pcb\eda\data
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect15.748x68.8976_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\s62.9921_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect62.9921x74.8031_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect82.6772x78.7402_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect86.6142x74.8031_135\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect23.622x23.622xr2.9528_295\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect23.622x23.622xr2.9528_205\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect14.1732x12.5984_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect23.622x23.622xr2.9528_25\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\s70.8661_135\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\s78.8661_135\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\s70.8661_135\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect15.748x68.8976_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\s62.9921_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect62.9921x74.8031_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect82.6772x78.7402_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect86.6142x74.8031_135\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect23.622x23.622xr2.9528_295\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect23.622x23.622xr2.9528_205\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect14.1732x12.5984_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect23.622x23.622xr2.9528_25\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect19.748x72.8976_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\s70.9921_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect70.9921x82.8031_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect90.6772x86.7402_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect94.6142x82.8031_135\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect31.622x31.622xr6.9528_295\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect31.622x31.622xr6.9528_205\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect22.1732x20.5984_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect31.622x31.622xr6.9528_25\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\s78.8661_135\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect15.748x68.8976_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\s62.9921_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect62.9921x74.8031_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect82.6772x78.7402_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect86.6142x74.8031_135\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect23.622x23.622xr2.9528_295\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect23.622x23.622xr2.9528_205\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect14.1732x12.5984_315\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\rect23.622x23.622xr2.9528_25\features
+
+Generated File : D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\ODB\odb\symbols\s70.8661_135\features
+

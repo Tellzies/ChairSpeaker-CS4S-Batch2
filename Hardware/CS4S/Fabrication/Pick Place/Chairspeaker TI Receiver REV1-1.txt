@@ -1,0 +1,153 @@
+Altium Designer Pick and Place Locations
+D:\PD\IT\ChairSpeaker\Datapackage_Chair_Speaker_TI_Receiver_REV2-0\.\Fabrication\Pick Place\Chairspeaker TI Receiver REV1-1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/04/22
+Time:       22:37
+Revision:   Not in VersionControl
+Variant:    PROTO
+Units used: mil
+
+Designator Comment            Layer    Footprint                   Center-X(mil) Center-Y(mil) Rotation Description                        
+U8         CC2590RGVT         TopLayer QFN65P400X400X100-17N-D     -61.046       457.633       270      "No Description Available"         
+C54        6.8pF/50V          TopLayer CAP_0402_(M1005)            -48.562       114.598       270      =Description1                      
+R13        10K                TopLayer RES_0402_(M1005)            -241.367      322.689       180      =Description1                      
+R11        4.3K               TopLayer RES_0402_(M1005)            109.509       446.296       180      =Description1                      
+R10        10K                TopLayer RES_0402_(M1005)            -241.367      363.152       180      =Description1                      
+L17        1.5nH              TopLayer IND_0402_(M1005)            -68.441       53.789        0        =Description1                      
+FB3        BK1005HS102-T      TopLayer IND_0402_(M1005)            208.817       464.598       270      =Description1                      
+C65        1.8pF/50V          TopLayer CAP_0402_(M1005)            8.319         17.841        245      =Description1                      
+C60        1pF/50V            TopLayer CAP_0402_(M1005)            -68.493       253.895       180      =Description1                      
+C9         18pF/50V           TopLayer CAP_0402_(M1005)            167.904       335.664       90       =Description1                      
+C78        0.1uF/10V          TopLayer CAP_0402_(M1005)            -1055.118     1287.402      90       =Description1                      
+R6         0R                 TopLayer RES_0402_(M1005)            167.114       794.412       0        =Description1                      
+R3         0R                 TopLayer RES_0402_(M1005)            -319.935      1390.497      270      =Description1                      
+C58        0.1uF/10V          TopLayer CAP_0402_(M1005)            -539.935      -149.503      270      =Description1                      
+C10        0.1uF/10V          TopLayer CAP_0402_(M1005)            -884.935      -149.503      270      =Description1                      
+LED2       LTST-C193TBKT-5A   TopLayer LED0603_TM                  -1543.397     -741.980      360      "LED GREEN 0603 SMD"               
+S1         RV0971GS           TopLayer RV0971GS                    -813.952      1462.201      90       =Description1                      
+J1         ZX62-B-5PA(33)     TopLayer USB_MICRODBG                -1772.397     1341.421      45       =Description1                      
+U5         NS4150             TopLayer SOP-8                       -859.935      -424.502      270      =Description1                      
+SW1        PTS645-V-L58-2-LFS TopLayer SWITCH-PTS645-VL            -2118.951     368.257       270      "SWITCH TACTILE SPST-NO 0.05A 12V" 
+L15        BLM18PG181SN1D     TopLayer IND_0603_(M1608)            -464.935      -724.503      180      =Description1                      
+L14        6.8nH              TopLayer IND_0402_(M1005)            -809.935      325.498       90       =Description1                      
+L13        BLM18PG181SN1D     TopLayer IND_0603_(M1608)            -859.935      -724.503      180      =Description1                      
+D4         ESD9B5.0ST5G       TopLayer SOD-923-BI-DIRECTIONAL      -1684.935     1190.497      45       =Description1                      
+D2         NSR0320MW2T3G      TopLayer SOD-323                     -1352.819     940.360       360      =Description1                      
+C49        10uF/10V           TopLayer CAP_0805_(M2012)            -1114.935     365.497       90       =Description1                      
+C45        0.1uF/10V          TopLayer CAP_0402_(M1005)            -652.212      517.380       180      =Description1                      
+C25        1uF/10V            TopLayer CAP_0402_(M1005)            84.249        335.664       90       =Description1                      
+C12        1uF/10V            TopLayer CAP_0402_(M1005)            106.760       1059.480      270      =Description1                      
+BT1        0530470210         TopLayer 0530470210                  -1229.935     -806.668      0        =Description1                      
+C1         1uF/10V            TopLayer CAP_0402_(M1005)            -909.758      966.392       90       =Description1                      
+C2         1uF/10V            TopLayer CAP_0402_(M1005)            -694.758      961.392       90       =Description1                      
+C6         0.1uF/10V          TopLayer CAP_0402_(M1005)            -929.758      866.392       180      =Description1                      
+C11        1000pF/2KV         TopLayer CAP_1206_(M3016)            -1739.935     1000.497      180      =Description1                      
+C13        0.1uF/10V          TopLayer CAP_0402_(M1005)            167.114       995.639       180      =Description1                      
+C14        0.1uF/10V          TopLayer CAP_0402_(M1005)            167.114       873.615       180      =Description1                      
+C15        0.1uF/10V          TopLayer CAP_0402_(M1005)            -209.935      1005.497      360      =Description1                      
+C16        0.1uF/10V          TopLayer CAP_0402_(M1005)            -289.935      935.497       360      =Description1                      
+C17        0.1uF/10V          TopLayer CAP_0402_(M1005)            -289.935      725.497       360      =Description1                      
+C18        0.1uF/10V          TopLayer CAP_0402_(M1005)            -289.935      685.497       360      =Description1                      
+C19        0.1uF/10V          TopLayer CAP_0402_(M1005)            -160.479      600.057       90       =Description1                      
+C20        0.1uF/10V          TopLayer CAP_0402_(M1005)            55.065        629.533       90       =Description1                      
+C21        220pF/10V          TopLayer CAP_0402_(M1005)            15.065        629.533       90       =Description1                      
+C22        0.1uF/10V          TopLayer CAP_0402_(M1005)            160.065       725.497       180      =Description1                      
+C23        1nF/10V            TopLayer CAP_0402_(M1005)            109.349       485.858       180      =Description1                      
+C24        1nF/10V            TopLayer CAP_0402_(M1005)            208.589       335.664       90       =Description1                      
+C26        0.1uF/10V          TopLayer CAP_0402_(M1005)            125.802       335.664       90       =Description1                      
+C27        1nF/10V            TopLayer CAP_0402_(M1005)            -140.669      318.357       360      =Description1                      
+C30        1uF/10V            TopLayer CAP_0402_(M1005)            167.114       955.639       180      =Description1                      
+C31        0.1uF/10V          TopLayer CAP_0402_(M1005)            -269.620      1035.497      270      =Description1                      
+C32        12pF/25V           TopLayer CAP_0402_(M1005)            -339.935      570.497       270      =Description1                      
+C33        12pF/25V           TopLayer CAP_0402_(M1005)            -246.177      456.599       180      =Description1                      
+C34        0.1uF/10V          TopLayer CAP_0402_(M1005)            -924.935      345.498       180      =Description1                      
+C35        0.1uF/10V          TopLayer CAP_0402_(M1005)            -1009.935     385.498       90       =Description1                      
+C36        10uF/10V           TopLayer CAP_0805_(M2012)            -854.935      -654.503      180      =Description1                      
+C37        1uF/10V            TopLayer CAP_0402_(M1005)            -864.935      -594.503      180      =Description1                      
+C38        0.1uF/10V          TopLayer CAP_0402_(M1005)            -749.935      265.498       180      =Description1                      
+C39        39pF/50V           TopLayer CAP_0402_(M1005)            -864.935      -89.502       180      =Description1                      
+C40        330pF/50V          TopLayer CAP_0402_(M1005)            -749.935      -779.503      180      =Description1                      
+C41        0.1uF/10V          TopLayer CAP_0402_(M1005)            -1034.935     590.497       270      =Description1                      
+C42        1uF/10V            TopLayer CAP_0402_(M1005)            -924.935      305.497       180      =Description1                      
+C43        0.1uF/10V          TopLayer CAP_0402_(M1005)            -934.935      -149.503      270      =Description1                      
+C44        330pF/50V          TopLayer CAP_0402_(M1005)            -954.935      -779.503      180      =Description1                      
+C46        1uF/10V            TopLayer CAP_0402_(M1005)            -1074.935     590.497       270      =Description1                      
+C47        0.1uF/10V          TopLayer CAP_0402_(M1005)            -769.935      325.498       90       =Description1                      
+C48        1uF/10V            TopLayer CAP_0402_(M1005)            -1049.935     385.498       90       =Description1                      
+C51        39pF/50V           TopLayer CAP_0402_(M1005)            -954.935      -89.502       360      =Description1                      
+C52        1uF/10V            TopLayer CAP_0402_(M1005)            -834.935      -229.503      270      =Description1                      
+C53        0.1uF/10V          TopLayer CAP_0402_(M1005)            -489.935      -149.502      270      =Description1                      
+C55        1uF/10V            TopLayer CAP_0402_(M1005)            -651.942      556.820       180      =Description1                      
+C56        47pF/50V           TopLayer CAP_0402_(M1005)            -799.935      685.497       180      =Description1                      
+C57        47pF/50V           TopLayer CAP_0402_(M1005)            -719.935      685.497       360      =Description1                      
+C59        0.1uF/10V          TopLayer CAP_0402_(M1005)            -1079.935     1630.497      360      =Description1                      
+C61        10uF/10V           TopLayer CAP_0805_(M2012)            -459.935      -654.503      180      =Description1                      
+C62        1uF/10V            TopLayer CAP_0402_(M1005)            -469.935      -594.503      180      =Description1                      
+C63        39pF/50V           TopLayer CAP_0402_(M1005)            -469.935      -89.502       180      =Description1                      
+C64        330pF/50V          TopLayer CAP_0402_(M1005)            -354.935      -779.503      180      =Description1                      
+C66        330pF/50V          TopLayer CAP_0402_(M1005)            -559.935      -779.503      180      =Description1                      
+C68        39pF/50V           TopLayer CAP_0402_(M1005)            -559.935      -89.502       360      =Description1                      
+C69        1uF/10V            TopLayer CAP_0402_(M1005)            -439.935      -229.502      270      =Description1                      
+C3         47pF/50V           TopLayer CAP_0402_(M1005)            -1224.409     -724.409      180      =Description1                      
+C5         100uF/10V          TopLayer CAP_1210_3225               -1236.220     -456.693      180      =Description1                      
+C4         0.1uF/10V          TopLayer CAP_0402_(M1005)            -1228.347     -358.268      180      =Description1                      
+C8         1uF/10V            TopLayer CAP_0402_(M1005)            -1654.935     765.497       270      =Description1                      
+C7         1uF/10V            TopLayer CAP_0402_(M1005)            -1854.935     765.497       270      =Description1                      
+FB1        BK1005HS102-T      TopLayer IND_0402_(M1005)            146.760       1059.480      270      =Description1                      
+FB2        BK1005HS102-T      TopLayer IND_0402_(M1005)            110.065       525.497       360      =Description1                      
+J3         0530470210         TopLayer 0530470210                  -454.935      -874.503      360      =Description1                      
+L2         6.8nH              TopLayer IND_0402_(M1005)            167.114       914.330       360      =Description1                      
+L3         6.8nH              TopLayer IND_0402_(M1005)            167.114       833.508       360      =Description1                      
+L4         2.2nH              TopLayer IND_0402_(M1005)            -49.182       314.212       270      =Description1                      
+L5         3nH                TopLayer IND_0402_(M1005)            91.738        -43.747       335      =Description1                      
+L6         3.9nH              TopLayer IND_0402_(M1005)            -48.432       194.196       270      =Description1                      
+L1         MPZ1608S300ATAH0   TopLayer IND_0603_(M1608)            -1309.642     1025.664      270      =Description1                      
+LED1       LTST-C193TBKT-5A   TopLayer LED0603_TM                  -1544.327     -807.103      0        "LED GREEN 0603 SMD"               
+R1         10K                TopLayer RES_0402_(M1005)            -929.758      906.392       360      =Description1                      
+R4         10K                TopLayer RES_0402_(M1005)            -1759.935     890.497       180      =Description1                      
+R5         2K                 TopLayer RES_0402_(M1005)            -1654.935     845.497       270      =Description1                      
+R17        56K                TopLayer IND_0402_(M1005)            185.065       615.497       360      =Description1                      
+R18        10K                TopLayer RES_0402_(M1005)            -309.620      1035.497      270      =Description1                      
+R19        100K               TopLayer RES_0402_(M1005)            185.065       575.497       360      =Description1                      
+R21        470R               TopLayer RES_0402_(M1005)            -1430.971     -806.366      360      "RES 470 OHM 1% 1/16W 0402"        
+R22        220R               TopLayer RES_0402_(M1005)            -1428.427     -741.872      360      "RES 220 OHM 1% 1/16W 0402"        
+R27        10K                TopLayer RES_0402_(M1005)            -809.723      246.154       90       =Description1                      
+R28        30K                TopLayer RES_0402_(M1005)            -884.935      -229.502      90       =Description1                      
+R29        0R                 TopLayer RES_0402_(M1005)            -749.935      225.497       180      =Description1                      
+R30        0R                 TopLayer RES_0402_(M1005)            -744.935      -654.503      270      =Description1                      
+R31        30K                TopLayer RES_0402_(M1005)            -934.935      -229.502      90       =Description1                      
+R32        0R                 TopLayer RES_0402_(M1005)            -959.935      -654.503      270      =Description1                      
+R33        10K                TopLayer RES_0402_(M1005)            -764.935      -209.502      360      =Description1                      
+R34        1K                 TopLayer RES_0402_(M1005)            -764.935      -169.503      180      =Description1                      
+R36        4.7K               TopLayer RES_0402_(M1005)            -799.935      725.497       180      =Description1                      
+R37        4.7K               TopLayer RES_0402_(M1005)            -719.935      725.497       360      =Description1                      
+R38        0R                 TopLayer RES_0402_(M1005)            -909.935      1095.497      270      =Description1                      
+R39        30K                TopLayer RES_0402_(M1005)            -489.935      -229.502      90       =Description1                      
+R40        0R                 TopLayer RES_0402_(M1005)            -349.935      -654.503      270      =Description1                      
+R41        30K                TopLayer RES_0402_(M1005)            -539.935      -229.502      90       =Description1                      
+R44        1K                 TopLayer RES_0402_(M1005)            -389.935      -149.503      270      =Description1                      
+U1         BU33SD5WG-TR       TopLayer SSOP5                       -794.758      946.392       270      =Description1                      
+U3         CC8530RHAT         TopLayer VFQFN40                     -49.935       825.497       180      =Description1                      
+U2         MCP73812T-420I/OT  TopLayer SOT23-5                     -1749.935     785.497       360      =Description1                      
+U6         TLV320DAC32IRHBR   TopLayer VQFN32                      -849.935      500.498       180      =Description1                      
+U7         NS4150             TopLayer SOP-8                       -464.935      -424.502      270      =Description1                      
+X1         48MHz              TopLayer ECX-2236B                   -247.022      555.457       270      =Description1                      
+R14        1M                 TopLayer RES_0402_(M1005)            -1744.935     1090.497      180      =Description1                      
+R42        0R                 TopLayer RES_0402_(M1005)            -564.935      -654.503      270      =Description1                      
+R43        10K                TopLayer RES_0402_(M1005)            -369.935      -209.503      360      =Description1                      
+D3         SMAJ7.0CA          TopLayer DO-214AC_(SMA)_BI_DIRECTION -1468.592     1063.896      225      =Description1                      
+D1         SMAJ7.0CA          TopLayer DO-214AC_(SMA)_BI_DIRECTION -1259.842     -622.047      180      =Description1                      
+L7         6.8nH              TopLayer IND_0402_(M1005)            -289.935      895.497       360      =Description1                      
+L8         6.8nH              TopLayer IND_0402_(M1005)            -289.935      855.497       360      =Description1                      
+L9         6.8nH              TopLayer IND_0402_(M1005)            -289.935      815.497       360      =Description1                      
+L10        6.8nH              TopLayer IND_0402_(M1005)            -289.935      775.497       360      =Description1                      
+L11        6.8nH              TopLayer IND_0402_(M1005)            125.065       595.497       90       =Description1                      
+L12        6.8nH              TopLayer IND_0402_(M1005)            -289.620      975.497       360      =Description1                      
+J4         0530470210         TopLayer 0530470210                  -849.935      -874.503      360      =Description1                      
+C70        1uF/10V            TopLayer CAP_0402_(M1005)            186.760       1059.480      90       =Description1                      
+C71        1uF/10V            TopLayer CAP_0402_(M1005)            190.251       525.354       180      =Description1                      
+D9         NSR0320MW2T3G      TopLayer SOD-323                     -1784.935     605.497       180      =Description1                      
+L16        BLM18PG181SN1D     TopLayer IND_0603_(M1608)            -1044.935     235.498       270      =Description1                      

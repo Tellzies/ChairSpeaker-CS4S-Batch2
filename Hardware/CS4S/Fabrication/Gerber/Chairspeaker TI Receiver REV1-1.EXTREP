@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Chairspeaker TI Receiver REV1-1.GBR   4/20/2022  10:36:40 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.GBL                Bot Layer                               
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                BoardOutline                            
+.GM2                Fabrication                             
+.GM4                Dimensions                              
+.GM7                TOP_ASSEMBLY                            
+.GM8                BOT_ASSEMBLY                            
+.GM10               Impedance_info                          
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------

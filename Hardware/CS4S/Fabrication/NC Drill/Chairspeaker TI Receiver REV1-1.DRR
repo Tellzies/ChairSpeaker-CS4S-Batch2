@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Chair_Speaker_TI_Receiver_REV1-1.PcbDoc   4/20/2022  10:36:39 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bot Layer
+ASCII RoundHoles File : Chairspeaker TI Receiver REV1-1.TXT
+EIA File   : Chairspeaker TI Receiver REV1-1.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             364       PTH        0.00inch (0.00mm)
+T2      24mil (0.599mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T3      39mil (1.001mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T4      43mil (1.1mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T5      47mil (1.199mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T6      51mil (1.3mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T7      39mil (1.001mm)                                           Round             3         NPTH       0.00inch (0.00mm)
+T8      118mil (3mm)                                              Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              391
+
+Total Processing Time (hh:mm:ss) : 00:00:00
