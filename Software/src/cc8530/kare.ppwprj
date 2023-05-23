@@ -1,0 +1,24 @@
+<!DOCTYPE project SYSTEM "project.dtd"[]>
+<project>
+<name>Kare Products</name>
+<desc></desc>
+<pwc_rev>1.4.2</pwc_rev>
+<devcfg>
+<file>transmitter.ppwcfg</file>
+</devcfg>
+<devcfg>
+<file>chairspeaker.ppwcfg</file>
+</devcfg>
+<devcfg>
+<file>tvpillow.ppwcfg</file>
+</devcfg>
+<devcfg>
+<file>China Headset.ppwcfg</file>
+</devcfg>
+<devcfg>
+<file>China Transmitter.ppwcfg</file>
+</devcfg>
+<devcfg>
+<file>Transmitter CR.ppwcfg</file>
+</devcfg>
+</project>

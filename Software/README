@@ -1,0 +1,4 @@
+Dev environment setup
+- Install PurePath Wireless Configurator
+- Copy sr/cc8530/dac32power.ppwadd to the audio_devices folder in the PPWC install directory
+- Launch PPWC and open src/cc8530/kare.ppwproj

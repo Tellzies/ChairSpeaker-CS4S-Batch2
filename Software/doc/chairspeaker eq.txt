@@ -1,0 +1,65 @@
+Text "* Sample Rate = 48000"
+Text "* Filter 1 Bass Shelf 800 Hz Fc 12.0 dB"
+Text "* Filter 2 Treble Shelf 5000 Hz Fc 9.0 dB"
+
+Text "* BQ: H(z) = (N0 + 2*N1/z + N2/(z2)) / (32768 - 2*D1/z - D2/(z2))"
+Text "* Filter Coefficients in format N0, N1, N2, D1, D2"
+
+Text "* 1O: H(z) = (N0 + N1/z) / (32768 - D1/z)"
+Text "* Filter Coefficients in format N0, N1, D1"
+
+Text "* Filter 1 BQ "
+0x7FFF
+0x9225
+0x6041
+0x76D8
+0x9115
+Text "* Filter 2 BQ "
+0x7FFF
+0xA5FD
+0x45E5
+0x4343
+0xD01E
+
+w 30 00 01 # select page 1
+w 30 01 7F # Left filter N0 MSB
+w 30 02 FF # Left filter N0 LSB
+w 30 03 92 # Left filter N1 MSB
+w 30 04 25 # Left filter N1 LSB
+w 30 05 60 # Left filter N2 MSB
+w 30 06 41 # Left filter N2 LSB
+w 30 07 7F # Left filter N3 MSB
+w 30 08 FF # Left filter N3 LSB
+w 30 09 A5 # Left filter N4 MSB
+w 30 0A FD # Left filter N4 LSB
+w 30 0B 45 # Left filter N5 MSB
+w 30 0C E5 # Left filter N5 LSB
+w 30 0D 76 # Left filter D1 MSB
+w 30 0E D8 # Left filter D1 LSB
+w 30 0F 91 # Left filter D2 MSB
+w 30 10 15 # Left filter D2 LSB
+w 30 11 43 # Left filter D4 MSB
+w 30 12 43 # Left filter D4 LSB
+w 30 13 D0 # Left filter D5 MSB
+w 30 14 1E # Left filter D5 LSB
+
+w 30 1B 7F # Right filter N0 MSB
+w 30 1C FF # Right filter N0 LSB
+w 30 1D 92 # Right filter N1 MSB
+w 30 1E 25 # Right filter N1 LSB
+w 30 1F 60 # Right filter N2 MSB
+w 30 20 41 # Right filter N2 LSB
+w 30 21 7F # Right filter N3 MSB
+w 30 22 FF # Right filter N3 LSB
+w 30 23 A5 # Right filter N4 MSB
+w 30 24 FD # Right filter N4 LSB
+w 30 25 45 # Right filter N5 MSB
+w 30 26 E5 # Right filter N5 LSB
+w 30 27 76 # Right filter D1 MSB
+w 30 28 D8 # Right filter D1 LSB
+w 30 29 91 # Right filter D2 MSB
+w 30 2A 15 # Right filter D2 LSB
+w 30 2B 43 # Right filter D4 MSB
+w 30 2C 43 # Right filter D4 LSB
+w 30 2D D0 # Right filter D5 MSB
+w 30 2E 1E # Right filter D5 LSB
